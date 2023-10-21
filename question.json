@@ -1,0 +1,27 @@
+[   
+    {
+        "qestion" : "Which planet in our solar system is known as the \"Red Planet?\"",
+        "answer" : ["Mars","Jupiter","Venus","Saturn"],
+        "correctanswer" : "Mars"
+    },
+    {
+        "qestion" : "Which country is known for its famous pyramids, including the Great Pyramid of Giza?",
+        "answer" : ["Egypt","Brazil","Canada","Australia"],
+        "correctanswer" : "Egypt"
+    },
+    {
+        "qestion" : "What is the capital city of France?",
+        "answer" : ["Paris","London","Rome","Madrid"],
+        "correctanswer" : "Paris"
+    },
+    {
+        "qestion" : "Who is the author of the famous novel \"Pride and Prejudice\"?",
+        "answer" : ["Jane Austen","William Shakespeare","William Shakespeare","Mark Twain"],
+        "correctanswer" : "Jane Austen"
+    },
+    {
+        "qestion" : "Which musical instrument is known for its black and white keys and is commonly associated with classical music?",
+        "answer" : ["Piano","Violin","Trumpet","Drum"],
+        "correctanswer" : "Piano"
+    }
+]
